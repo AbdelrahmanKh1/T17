@@ -7,3 +7,4 @@ User Speed Detection
 -If proven successful, this concept could significantly contribute to advancing the HCI field, introducing speed as a valuable input for future software designs. 
 -The software would be designed to perform actions in response to the detected user speed, opening new possibilities for user interaction.
 
+C:\Users\M0KIN\Pictures\Screenshots\Screenshot (16).png
