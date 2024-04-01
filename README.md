@@ -8,4 +8,5 @@ User Speed Detection
 -The software would be designed to perform actions in response to the detected user speed, opening new possibilities for user interaction.
 
 
-![Screenshot (16)](https://github.com/MOKiNN/T17/assets/116806410/e2186127-5d12-44e6-90c6-6918c2bad810)
+
+![Screenshot (16)](https://github.com/MOKiNN/T17/assets/116806410/71b96f2d-ad3c-4a2e-ac0b-9dcc62e460ae)
